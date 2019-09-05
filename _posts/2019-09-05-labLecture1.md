@@ -12,7 +12,7 @@ tags:
 
 
 
->  本周下午两点，在1#实验楼314举行了一次技术交流讲座，由[boboliu](https://note.bobo.moe/)同学主讲
+>  本周下午两点，在1#实验楼314举行了一次技术交流讲座，由[boboliu](https://boboliu.dev)同学主讲
 
 
 
@@ -52,7 +52,7 @@ tags:
 
 ## conclusion
 
-  第一次似乎不是那么成功，不过大家也算是学到了不少东西。
+  第一次似乎不是那么成功，不过大家也学到了不少东西。
 
 
 
@@ -61,7 +61,7 @@ tags:
 blogs
 
 -  [ModerRAS](https://miaostay.com/)
--  [boboliu](https://note.bobo.moe/)
+-  [boboliu](https://boboliu.dev/)
 - [huangzhiwei](https://Hzw12138.github.io)
 - [zuoyu](https://zy666.github.io)
 - [zzy阴阳](http://39.106.35.123 )
