@@ -9,7 +9,7 @@ layout: page
 - Something boring
 - Something interesting
 - Something useful
-- Maybe some posts about Computer Vision
+- Maybe some posts about Computer Vision or NLP
 
 ## Contact me
 
