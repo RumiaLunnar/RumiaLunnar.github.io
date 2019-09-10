@@ -1,15 +1,8 @@
-<div class="pagination">
-    {% if paginator.previous_page %}
-        <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">«</a>
-    {% else %}
-        <span class="previous hidden">«</span>
-    {% endif %}
-
-    <span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-    {% if paginator.next_page %}
-        <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">»</a>
-    {% else %}
-        <span class="next hidden">»</span>
-    {% endif %}
-</div>
+<section class="fixed-l mw7 center w-100 top-50 tc pb4 nt4">
+  {% if page.previous %}
+    <a href="{{ site.url }}{{ page.previous.url }}" class="no-underline f1 light-blue hover-silver nl5 fl-l ph3">‹</a>
+  {% endif %}
+  {% if page.next %}
+    <a href="{{ site.url }}{{page.next.url}}" class="no-underline f1 light-blue hover-silver nr5 fr-l ph3">›</a>
+  {% endif %}
+</section>
