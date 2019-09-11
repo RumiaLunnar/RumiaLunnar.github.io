@@ -16,3 +16,6 @@ layout: page
 - [Telegram](https://t.me/rumialunnar)
 - [Email](mailto:rumialunnar@gmail.com)
 
+## Friends
+
+- [ModerRAS](https://miaostay.com)
