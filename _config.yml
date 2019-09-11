@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "blog"
-description:      "???"
+description:      "random"
 url:              //rumia.club # Site url, without a slash at the end.
 signoff:          "rumia" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
@@ -8,13 +8,13 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Home
     url:          /
     external:     false
-  - name:         About me
+  - name:         About
     url:          /about
     external:     false
-  - name:         rss
+  - name:         Rss
     url:          /feed.xml
     external:     false
 # ------------ CONFIGURABLE END ------------
