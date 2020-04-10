@@ -2,7 +2,7 @@
 <script>window.blog={baseurl:"{{site.baseurl}}", buildAt:"{{buildAt}}"}</script>
 <script src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
-  var mathId = document.getElementById("post-container");//选择公式识别范围
+  var mathId = document.getElementsByClassName('markdown-body');//选择公式识别范围
   MathJax.Hub.Config({
       showProcessingMessages: false,//关闭js加载过程信息
       messageStyle: "none",//不显示信息
