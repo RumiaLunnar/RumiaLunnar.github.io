@@ -1,5 +1,6 @@
 {%- assign buildAt = site.time | date: "%Y%m%d%H%M%S" -%}
 <script>window.blog={baseurl:"{{site.baseurl}}", buildAt:"{{buildAt}}"}</script>
+<script src="https://cdn.bootcss.com/mathjax/2.7.7/MathJax.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/static/js/blog.js?t={{ buildAt }}"></script>
 {% if page.searchPage -%}
 <script type="text/javascript" src="{{site.baseurl}}/static/js/search.js?t={{ buildAt }}"></script>

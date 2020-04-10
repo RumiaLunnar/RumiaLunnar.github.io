@@ -5,7 +5,7 @@ title: Rumia's  blog
 description: Rumia's blog 
 keywords: Linux,Python,Math,ML,C++
 author: Rumia
-footerText: ''
+footerText: '鲁ICP备19019616号-1	'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -30,10 +30,6 @@ menu:
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 友链
-    url: /pages/links.html
-  - title: 留言
-    url: /pages/chat.html
   - title: 关于
     url: /pages/about.html
 
