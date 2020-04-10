@@ -1,25 +1,61 @@
-# ----------- CONFIGURABLE START -----------
-title:            ""
-description:      "random"
-url:              //rumia.club # Site url, without a slash at the end.
-signoff:          "rumia" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+encoding: utf-8
 
+# SEO相关信息
+title: Rumia's  blog
+description: Rumia's blog 
+keywords: Linux,Python,Math,ML,C++
+author: Rumia
+footerText: ''
+
+# 这些不要动
+permalink: /posts/:year/:month/:day/:title.html
+kramdown:
+  auto_ids: true
+  input: GFM
+exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'cli.bat', 'dist.tar.gz']
+
+# 域名配置
+# baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
+domainUrl: 'https://rumia.club'
+baseurl: ''
+
+# 吐个槽地址，会在chat页面中重定向到该地址
+tucaoUrl: 
+
+# 菜单
+menu:
+  - title: 首页
+    url: /
+  - title: 归类
+    url: /pages/categories.html
+  - title: 搜索
+    url: /pages/search.html
+  - title: 友链
+    url: /pages/links.html
+  - title: 留言
+    url: /pages/chat.html
+  - title: 关于
+    url: /pages/about.html
+
+# 点击页面文字冒出特效,不需要请设置为false
+extClickEffect: true
+
+# Google Adsense,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extAdsense: false
+
+# 腾讯MTA移动分析,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extMTA: flase
+
+# 百度收录自动推送,不需要请设置为false
+extBaidu: flase
+
+# 数学公式支持，比较影响加载速度,不需要请设置为false
+extMath: true
+
+# 友情链接
 links:
-  - name:         Home
-    url:          /
-    external:     false
-  - name:         About
-    url:          /about
-    external:     false
-  - name:         Rss
-    url:          /feed.xml
-    external:     false
-# ------------ CONFIGURABLE END ------------
-
-permalink:        /posts/:title
-defaults:
-  - values:
-      layout: "default"
+  - title: Rumia's blog
+    url: http://rumia.club
+  
