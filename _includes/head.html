@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/page.css?t={{buildAt}}">
   <link rel="dns-prefetch" href="//cdn.bootcss.com" />
   <script type="text/x-mathjax-config">
-var mathId = document.getElementById("post-container");//选择公式识别范围
+var mathId = document.getElementByClassName("markdown-body");//选择公式识别范围
 MathJax.Hub.Config({
     showProcessingMessages: false,//关闭js加载过程信息
     messageStyle: "none",//不显示信息
