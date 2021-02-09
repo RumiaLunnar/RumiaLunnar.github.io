@@ -59,7 +59,7 @@ if $_build; then
   JEKYLL_ENV=production bundle exec jekyll b
 fi
 
-gem install htmlproofer
+gem install html-proofer
 
 bundle exec html-proofer "$DEST" \
   --disable-external \
