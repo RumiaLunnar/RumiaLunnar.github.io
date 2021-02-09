@@ -20,9 +20,7 @@ title: Blog                          # the main title
 tagline: Rumia's blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -32,8 +30,8 @@ author: Rumia                  # change to your full name
 github:
   username: rumialunnar             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+zhihu:
+  username:  rumiax          # change to your twitter username
 
 social:
   name: rumia                  # it will shows as the copyright owner in Footer
@@ -71,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
