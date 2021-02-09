@@ -66,4 +66,3 @@ jobs:
           fi
 
           bash tools/deploy.sh
-© 2021 GitHub, Inc.
