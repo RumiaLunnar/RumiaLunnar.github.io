@@ -24,7 +24,8 @@
   {%- if page.layout == "page" %}
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/page.css?t={{buildAt}}">
   <link rel="dns-prefetch" href="//cdn.bootcss.com" />
-  <script src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.1.2/es5/a11y/assistive-mml.js"></script>
+  <!-- <script src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.1.2/es5/a11y/assistive-mml.js"></script> -->
+  <script crossorigin="anonymous" integrity="sha512-UKdJ5WKBiAE2woZuDoo7WbUEoEg899JFHi7RrqMaeOlpKn+fSgMFDEPToEjXlMy9phugWdAWARRqEStBoODDAg==" src="https://lib.baomitu.com/mathjax/3.1.2/es5/a11y/assistive-mml.js"></script>
   <script type="text/x-mathjax-config">
 var mathId = document.getElementsByClassName("post-container");//选择公式识别范围
 MathJax.Hub.Config({
