@@ -61,9 +61,9 @@ fi
 
 # gem install html-proofer
 
-# bundle exec html-proofer "$DEST" \
-#   --disable-external \
-#   --check-html \
-#   --empty_alt_ignore \
-#   --allow_hash_href \
-#   --url_ignore $URL_IGNORE
+bundle exec htmlproofer "$DEST" \
+  --disable-external \
+  --check-html \
+  --empty_alt_ignore \
+  --allow_hash_href \
+  --url_ignore $URL_IGNORE
