@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link></link>
+    <description></description>
+    <language>zh-CN</language>
+    <pubDate>Sat, 13 Feb 2021 19:23:07 +0800</pubDate>
+    <lastBuildDate>Sat, 13 Feb 2021 19:23:07 +0800</lastBuildDate>
+    <generator>Jekyll v4.1.0</generator>
+    <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python举偏补弊</title>
+      <link>/posts/Python-%E4%B8%BE%E5%81%8F%E8%A1%A5%E5%BC%8A/</link>
+      <description>zip函数zip()函数用于将可迭代的对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的列表。如果各个迭代器的元素个数不一致，则返回列表长度与最短的对象相同，利用*号操作符，可以将元组解压为列表。用法：123z...</description>
+      <pubDate>Thu, 11 Feb 2021 07:04:00 +0800</pubDate>
+      <gui>/posts/Python-%E4%B8%BE%E5%81%8F%E8%A1%A5%E5%BC%8A/</gui>
+    </item>
+    <item>
+      <title>微机原理笔记#0</title>
+      <link>/posts/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</link>
+      <description>因为准备复试,学习一下微机原理,第一篇笔记记录一下思维导图</description>
+      <pubDate>Thu, 11 Feb 2021 01:40:00 +0800</pubDate>
+      <gui>/posts/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</gui>
+    </item>
+    <item>
+      <title>合并硬盘分区的两种方法</title>
+      <link>/posts/%E5%90%88%E5%B9%B6%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
+      <description>1不保留原有文件此法可能会造成被合并盘符内文件丢失，不过大多数情况下应该可以通过数据恢复找回文件另外需要说明的是，这里的所谓的合并磁盘本质上合并在磁盘上个一个一个分区，而不是真正的独立的磁盘打开此电脑（win+E)打开管理打开磁盘管理...</description>
+      <pubDate>Thu, 11 Feb 2021 01:40:00 +0800</pubDate>
+      <gui>/posts/%E5%90%88%E5%B9%B6%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</gui>
+    </item>
+    <item>
+      <title>图像分割</title>
+      <link>/posts/%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2/</link>
+      <description>整体等于其部分之和——欧几里得整体大于其部分之和——MaxWertheimer基本概念在计算机视觉领域，图像分割（segmentation）指的是将数字图像细分为多个图像子区域（像素的集合）（也被称作超像素）的过程。图像分割的目的是简...</description>
+      <pubDate>Wed, 10 Feb 2021 17:40:00 +0800</pubDate>
+      <gui>/posts/%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2/</gui>
+    </item>
+    <item>
+      <title>考研总结</title>
+      <link>/posts/%E8%80%83%E7%A0%94%E5%BF%83%E5%BE%97/</link>
+      <description>白苎新袍入嫩凉。春蚕食叶响回廊，禹门已准桃花浪，月殿先收桂子香。鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云去，却笑人间举子忙。为什么考研首要问题是提高就业竞争力，我并没有瞧不起我的学校，我只是认为我所在的学校给我提供的平台并没有那么...</description>
+      <pubDate>Wed, 10 Feb 2021 01:40:00 +0800</pubDate>
+      <gui>/posts/%E8%80%83%E7%A0%94%E5%BF%83%E5%BE%97/</gui>
+    </item>
+    <item>
+      <title>直方图均衡化</title>
+      <link>/posts/%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E5%8C%96/</link>
+      <description>他的与众不同之处在于，是透过光线看阴影还是透过阴影看光线​——大卫林赛1.什么是直方图均衡化直方图均衡化本质上属于一种灰度变换与空间滤波技术的范畴，以像素为基本操作单位，对数字图像进行处理。直方图均衡化，顾名思义，就是对直方图进行均衡...</description>
+      <pubDate>Tue, 09 Feb 2021 06:00:00 +0800</pubDate>
+      <gui>/posts/%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E5%8C%96/</gui>
+    </item>
+    <item>
+      <title>cs224n lecture2</title>
+      <link>/posts/CS224n-notes-0x02/</link>
+      <description>很快就能整完</description>
+      <pubDate>Sun, 22 Sep 2019 04:00:00 +0800</pubDate>
+      <gui>/posts/CS224n-notes-0x02/</gui>
+    </item>
+    <item>
+      <title>cs224n lecture2</title>
+      <link>/posts/CS224n-notes-0x01/</link>
+      <description>终于是花了三四天时间断断续续看完了cs224nlecture2，难度真的是指数型上升。基本原理词嵌入什么是词嵌入？自然语言不像图像信息一样，自然语言的基本单位是文字，在英文中是word，中文中是字，他们都是有具体意义的抽象表示，而所谓...</description>
+      <pubDate>Fri, 06 Sep 2019 04:00:00 +0800</pubDate>
+      <gui>/posts/CS224n-notes-0x01/</gui>
+    </item>
+    <item>
+      <title>lab lecture1</title>
+      <link>/posts/labLecture1/</link>
+      <description>本周下午两点，在1#实验楼314举行了一次技术交流讲座，由boboliu同学主讲init初始化阶段似乎出了一些问题，311的投影仪并不能正常工作，最终选择了使用实验室最有钱的人的（boboliu）自带的投影仪。git的使用虽然效果不是...</description>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0800</pubDate>
+      <gui>/posts/labLecture1/</gui>
+    </item>
+    <item>
+      <title>cs224n lecture1</title>
+      <link>/posts/CS224n-notes-0x00/</link>
+      <description>Introduction自然是简单介绍，有一些有意思的概念大致写一下。0.语音处理与nlp​语音处理已经做得很不错了，可以看得出来，包括siri，Cortana之类的语音助手，在将语音信号转化为文字这方面还是很不错的，以前感觉它们算是...</description>
+      <pubDate>Sat, 31 Aug 2019 06:00:00 +0800</pubDate>
+      <gui>/posts/CS224n-notes-0x00/</gui>
+    </item>
+    <item>
+      <title>Travelling Diary</title>
+      <link>/posts/Traveling-Diary/</link>
+      <description>​于是确实是去了北戴河。而且是跟团去的，质量属实一般吧，稍微记录一下。Day1凌晨几乎没怎么睡得着，大概三点左右被醒来跟旺旺回合，到boc跟hcy和zty回合，去济宁，大巴凌晨5点出发。泰安收费站见到了彩虹，似乎是个好的兆头，事实上并...</description>
+      <pubDate>Fri, 16 Aug 2019 19:00:00 +0800</pubDate>
+      <gui>/posts/Traveling-Diary/</gui>
+    </item>
+    <item>
+      <title>主成分分析</title>
+      <link>/posts/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</link>
+      <description>填个坑，以后会写的。</description>
+      <pubDate>Tue, 13 Aug 2019 07:00:00 +0800</pubDate>
+      <gui>/posts/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</gui>
+    </item>
+    <item>
+      <title>Black Mirror Season 5</title>
+      <link>/posts/Black-Mirror/</link>
+      <description>黑镜第五季只有三集，断断续续花了两天时间看完了，今天还考过了科目二，有点开心，稍微写点感受海报莫名的有点可爱。Part1.整体感受本季的黑镜首先相比前两季短了不少，也没有那么NSFW了，也不像之前剧集里浓重的CyperPunk风格。三...</description>
+      <pubDate>Sat, 10 Aug 2019 07:00:00 +0800</pubDate>
+      <gui>/posts/Black-Mirror/</gui>
+    </item>
+    <item>
+      <title>Tensorflow notes 0x00</title>
+      <link>/posts/Tensorflow-0x0/</link>
+      <description>Tensorflow官方出了新的文档，经典的MNIST手写数字识别被换成了衣物识别，还挺有意思的，大概整理记录一下训练你的第一个神经网络对于有一定机器学习知识基础的初学者，MNIST手写数字识别无疑是一个非常棒的选择，这里google...</description>
+      <pubDate>Sat, 27 Jul 2019 16:00:00 +0800</pubDate>
+      <gui>/posts/Tensorflow-0x0/</gui>
+    </item>
+    <item>
+      <title>诗</title>
+      <link>/posts/poetry/</link>
+      <description>RoseisredSomethingisuptoone’stalentPassbyvalueispassbycopyit</description>
+      <pubDate>Wed, 12 Sep 2018 05:00:00 +0800</pubDate>
+      <gui>/posts/poetry/</gui>
+    </item>
+    <item>
+      <title>建模队员选拔模型</title>
+      <link>/posts/%E5%BB%BA%E6%A8%A1%E9%98%9F%E5%91%98%E9%80%89%E6%8B%94%E6%A8%A1%E5%9E%8B/</link>
+      <description>算了，本来想好好写一写解题步骤来着，想着实在是乱七八糟，满心胡乱，不解了，写写想法吧。算是正式做完的第一个题，难度并不大，但是解的一塌糊涂，刚开始想的是降维分析一波，画个雷达图，最后计算所成的面积。。。这是我头一天晚上想得，算是建了个...</description>
+      <pubDate>Fri, 24 Aug 2018 02:00:00 +0800</pubDate>
+      <gui>/posts/%E5%BB%BA%E6%A8%A1%E9%98%9F%E5%91%98%E9%80%89%E6%8B%94%E6%A8%A1%E5%9E%8B/</gui>
+    </item>
+    <item>
+      <title>遗传算法part3</title>
+      <link>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part3/</link>
+      <description>Matlab自带的遗传算法工具箱已经将常用的遗传运算命令进行了集成，用户使用很方便。但是封装的工具箱内部命令不能根据特殊需要进行相应调整和修改。从这个角度上来说，具有人工智能性质的GAToolbox是一种傻瓜式的智能，或智能式的傻瓜。...</description>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0800</pubDate>
+      <gui>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part3/</gui>
+    </item>
+    <item>
+      <title>遗传算法part2</title>
+      <link>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part2/</link>
+      <description>​大致流程图如下：st=&amp;gt;start:确定实际问题参数code=&amp;gt;operation:对参数集进行编码init=&amp;gt;operation:初始化群体P(t)judge=&amp;gt;operation:评价群体con=&amp;gt;...</description>
+      <pubDate>Thu, 16 Aug 2018 16:00:00 +0800</pubDate>
+      <gui>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part2/</gui>
+    </item>
+    <item>
+      <title>遗传算法part1</title>
+      <link>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part1/</link>
+      <description>本来是打算一篇写完遗传算法的，后来学着发现并不是那么好总结，后来又发现了Matlab的工具箱。。基本概念遗传算法是模拟达尔文生物进化论的自然选择和遗传学机理的生物进化过程的计算模型，是一种通过模拟自然进化过程搜索最优解的方法。遗传算法...</description>
+      <pubDate>Thu, 16 Aug 2018 06:00:00 +0800</pubDate>
+      <gui>/posts/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95part1/</gui>
+    </item>
+    <item>
+      <title>T检验</title>
+      <link>/posts/T-test/</link>
+      <description>WhatisT检验？T检验，亦称studentt检验（Student’sttest），主要用于样本含量较小（例如n&amp;lt;30），总体标准差σ未知的正态分布。t检验是用t分布理论来推论差异发生的概率，从而比较两个平均数的差异是否显著。...</description>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0800</pubDate>
+      <gui>/posts/T-test/</gui>
+    </item>
+    <item>
+      <title>聚类分析</title>
+      <link>/posts/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/</link>
+      <description>先写在这里提醒我自己，以后写写东西随手按一下ctrl+s。。。定义聚类分析指将物理或抽象对象的集合分组为由类似的对象组成的多个类的分析过程。在数学，计算机科学，经济学，统计学，以及机器学习领域有着广泛的应用。与分类的区别数据分类是分析...</description>
+      <pubDate>Sun, 12 Aug 2018 01:40:00 +0800</pubDate>
+      <gui>/posts/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/</gui>
+    </item>
+  </channel>
+</rss>
